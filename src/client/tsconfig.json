@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es5",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "outDir": "dist",
+        "baseUrl": ".",
+        "jsx": "react",
+        "paths": {
+            "*": [
+                "node_modules/*"
+            ]
+        }
+    },
+    "include": [
+        "components/*",
+        "index.tsx"
+    ]
+}
