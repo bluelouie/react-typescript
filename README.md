@@ -1,6 +1,6 @@
 # react-typescript Template
 
-> Simple Starter SPA Template with Typescript , no backend
+> Simple React template with Typescript, no backend
 
 > Does not use create-react-app for base configuration freedom
 
