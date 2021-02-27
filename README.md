@@ -32,7 +32,7 @@ npm start
 When you run `npm build` all the source code (`/src`) will be compiled and bundled into:
 
 ```
-dist/ <-- Complied server-side HTML, CSS, JS code
+public/ <-- Complied server-side HTML, CSS, JS code
 ```
 
 
