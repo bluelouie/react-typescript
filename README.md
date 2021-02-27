@@ -22,7 +22,7 @@ Run `npm install` to install all the packages plus all @types so Typescript wont
 To start the client server to begin building your React app (with hot reload), run :
 
 ```
-npm run client:watch
+npm start
 
 //--> Runs on port 8080
 ```
